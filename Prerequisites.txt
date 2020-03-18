@@ -1,0 +1,2 @@
+1. Install Python 3
+2. Install OpenCV and numpy packages
